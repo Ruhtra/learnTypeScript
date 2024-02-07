@@ -6,7 +6,7 @@ export class CreateUserUseCase {
 
     constructor (
         private UserRepository: IUserRepository
-    ) {
+    ) { 
 
     }
 
